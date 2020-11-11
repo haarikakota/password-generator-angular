@@ -1,4 +1,4 @@
-![Password Generator](./public/banner.png)
+![Password Generator](./banner.png)
 
 ### Steps to run
 
